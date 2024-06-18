@@ -1,3 +1,1 @@
-flashcatcloud/nightingale:7.0.0-beta.11
-victoriametrics/victoria-metrics:v1.93.15
-#
+flashcatcloud/categraf:v0.3.70
