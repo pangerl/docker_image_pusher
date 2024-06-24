@@ -1,1 +1,1 @@
-flashcatcloud/categraf:v0.3.70
+mysql:8
