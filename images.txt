@@ -1,1 +1,2 @@
-mysql:8
+postgres:15.7-alpine
+redis:7.2-alpine
