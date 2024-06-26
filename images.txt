@@ -1,2 +1,1 @@
-postgres:15.7-alpine
-redis:7.2-alpine
+python:3.12-slim-bookworm
